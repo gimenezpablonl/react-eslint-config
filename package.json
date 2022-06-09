@@ -1,0 +1,32 @@
+{
+  "name": "react-eslint-config",
+  "version": "1.0.0",
+  "description": "Personal eslint config for react projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pablo Gimenez <contact@gimenezpablo.nl> (http://gimenezpablo.nl)",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gimenezpablonl/react-eslint-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gimenezpablonl/react-eslint-config/issues"
+  },
+  "homepage": "https://github.com/gimenezpablonl/react-eslint-config",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.27.1",
+    "@typescript-eslint/parser": "^5.27.1",
+    "eslint": "^8.17.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-jsx": "^0.1.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-react": "^7.30.0",
+    "eslint-plugin-react-hooks": "^4.5.0",
+    "prettier": "^2.6.2"
+  }
+}
